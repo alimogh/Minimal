@@ -19,4 +19,4 @@ If you want more themed icons I need the source code of the app (so I will suppo
 - Overlays (see above)
 - Boot anmiations (Blue Minimal/LineAgeOS)
 - Sounds
-- Fonts (Fira norma and thin)
+- Fonts (Fira normal and thin)
