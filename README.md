@@ -20,3 +20,7 @@ If you want more themed icons I need the source code of the app (so I will suppo
 - Boot anmiations (Blue Minimal/LineAgeOS)
 - Sounds
 - Fonts (Fira normal and thin)
+
+As templates I used:
+[DefaultDarkTheme-oms](https://github.com/SpiritCroc/DefaultDarkTheme-oms)
+[Official Substratum Template](https://github.com/substratum/template)
