@@ -20,6 +20,3 @@ If you want more themed icons I need the source code of the app (so I will suppo
 - Boot anmiations (Blue Minimal/LineAgeOS)
 - Sounds
 - Fonts (Fira norma and thin)
-
-
-[Get it on Google Play](https://play.google.com/store/apps/details?id=baumann.defaultdarktheme_oms)
