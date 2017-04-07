@@ -23,5 +23,5 @@ If you want more themed icons I need the source code of the app (so I will suppo
 - Fonts (Fira normal and thin)
 
 As templates I used:
-[DefaultDarkTheme-oms](https://github.com/SpiritCroc/DefaultDarkTheme-oms)
-[Official Substratum Template](https://github.com/substratum/template)
+- [DefaultDarkTheme-oms](https://github.com/SpiritCroc/DefaultDarkTheme-oms)
+- [Official Substratum Template](https://github.com/substratum/template)
