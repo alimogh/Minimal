@@ -10,6 +10,7 @@ If you want more themed icons I need the source code of the app (so I will suppo
 - Settings: color of icons
 - Calendar: some icons
 - Contacts: primary color is blue
+- Gallery: primary color is blue / some icons
 - Dialer: primary color is blue
 - Calculator: blue/orange
 - Icons of several apps
