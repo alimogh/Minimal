@@ -17,7 +17,7 @@
 
 <resources>
 
-    <color name="pad_advanced_background_color">#ff03a9f4</color>
-	<color name="calculator_accent_color">#ffFF9800</color>
+    <color name="pad_advanced_background_color">#ffbdbdbd</color>
+	<color name="calculator_accent_color">#ff757575</color>
 	
 </resources>
