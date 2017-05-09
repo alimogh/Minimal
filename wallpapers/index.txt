@@ -24,4 +24,34 @@
         <link>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_n_teal.png</link>
         <preview>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_n_teal.png</preview>
     </wallpaper>
+
+    <wallpaper id="Amber Black">
+            <link>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_n_amber_black.png</link>
+            <preview>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_n_amber_black.png</preview>
+        </wallpaper>
+        <wallpaper id="Blue Black">
+            <link>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_n_blue_black.png</link>
+            <preview>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_n_blue_black.png</preview>
+        </wallpaper>
+        <wallpaper id="Green Black">
+            <link>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_n_green_black.png</link>
+            <preview>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_n_green_black.png</preview>
+        </wallpaper>
+        <wallpaper id="Grey Black">
+            <link>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_n_grey_black.png</link>
+            <preview>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_n_grey_black.png</preview>
+        </wallpaper>
+        <wallpaper id="Red Black">
+            <link>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_n_red_black.png</link>
+            <preview>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_n_red_black.png</preview>
+        </wallpaper>
+        <wallpaper id="Teal Black">
+            <link>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_n_teal_black.png</link>
+            <preview>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_n_teal_black.png</preview>
+        </wallpaper>
+
+    <wallpaper id="Black Solid">
+                <link>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_black.png</link>
+                <preview>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_black.png</preview>
+            </wallpaper>
 </substratum>
