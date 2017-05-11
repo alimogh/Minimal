@@ -25,6 +25,7 @@
         <preview>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_n_teal.png</preview>
     </wallpaper>
 
+
     <wallpaper id="Amber Black">
             <link>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_n_amber_black.png</link>
             <preview>https://raw.githubusercontent.com/scoute-dich/Minimal/master/wallpapers/wp_n_amber_black.png</preview>
