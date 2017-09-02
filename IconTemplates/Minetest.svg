@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="_minetest.svg"
+   inkscape:version="0.91 r13725"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 20 20"
+   height="5.6444445mm"
+   width="5.6444445mm"
+   inkscape:export-filename="/home/thomas/Programme/android/BlueIconsMinimal/app/src/main/res/drawable-xxhdpi/a203.png"
+   inkscape:export-xdpi="648"
+   inkscape:export-ydpi="648">
+  <sodipodi:namedview
+     inkscape:snap-to-guides="false"
+     inkscape:snap-grids="false"
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-height="1016"
+     inkscape:window-width="1920"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="true"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="8.9813598"
+     inkscape:cx="4.4710413"
+     inkscape:zoom="31.678384"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4138" />
+    <sodipodi:guide
+       position="10,18"
+       orientation="0,1"
+       id="guide4140" />
+    <sodipodi:guide
+       position="10,2"
+       orientation="0,1"
+       id="guide4142" />
+    <sodipodi:guide
+       position="2,10"
+       orientation="1,0"
+       id="guide4144" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,20"
+       id="guide4146" />
+    <sodipodi:guide
+       position="20,0"
+       orientation="-20,0"
+       id="guide4148" />
+    <sodipodi:guide
+       position="20,20"
+       orientation="0,-20"
+       id="guide4150" />
+    <sodipodi:guide
+       position="0,20"
+       orientation="20,0"
+       id="guide4152" />
+    <sodipodi:guide
+       position="18,10"
+       orientation="1,0"
+       id="guide4154" />
+    <sodipodi:guide
+       position="10,10"
+       orientation="-0.70710678,0.70710678"
+       id="guide4156" />
+    <sodipodi:guide
+       position="10,10"
+       orientation="0.70710678,0.70710678"
+       id="guide4158" />
+    <sodipodi:guide
+       position="4,10"
+       orientation="1,0"
+       id="guide4160" />
+    <sodipodi:guide
+       position="16,10"
+       orientation="1,0"
+       id="guide4162" />
+    <sodipodi:guide
+       position="10,16"
+       orientation="0,1"
+       id="guide4164" />
+    <sodipodi:guide
+       position="10,4"
+       orientation="0,1"
+       id="guide4166" />
+    <sodipodi:guide
+       position="10,15"
+       orientation="0,1"
+       id="guide4168" />
+    <sodipodi:guide
+       position="10,5"
+       orientation="0,1"
+       id="guide4170" />
+    <sodipodi:guide
+       position="5,10"
+       orientation="1,0"
+       id="guide4172" />
+    <sodipodi:guide
+       position="15,10"
+       orientation="1,0"
+       id="guide4174" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4785">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4787" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4789" />
+    </linearGradient>
+    <clipPath
+       id="clipPath12478"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         r="10"
+         cy="10.000005"
+         cx="9.9999781"
+         id="circle12480"
+         style="opacity:1;fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:0.05069799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13251">
+      <circle
+         r="10"
+         cy="10.000005"
+         cx="9.9999781"
+         id="circle13253"
+         style="opacity:1;fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:0.05069799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/juergen/path4136.png"
+         inkscape:export-xdpi="648"
+         inkscape:export-ydpi="648" />
+    </clipPath>
+    <clipPath
+       id="clipPath5054"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         r="10"
+         cy="10.000005"
+         cx="9.9999781"
+         id="circle5056"
+         style="opacity:1;fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:0.05069799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/juergen/path4136.png"
+         inkscape:export-xdpi="648"
+         inkscape:export-ydpi="648" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5149">
+      <circle
+         r="10"
+         cy="10.000005"
+         cx="9.9999781"
+         id="circle5151"
+         style="opacity:1;fill:#3f51b5;fill-opacity:1;stroke:none;stroke-width:0.05069799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/juergen/Schreibtisch/qqq.png"
+         inkscape:export-xdpi="648"
+         inkscape:export-ydpi="648" />
+    </clipPath>
+    <clipPath
+       id="clipPath6126"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         r="10"
+         cy="10.000005"
+         cx="9.9999781"
+         id="circle6128"
+         style="opacity:1;fill:#9ccc65;fill-opacity:1;stroke:none;stroke-width:0.05069799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/juergen/Schreibtisch/qqq.png"
+         inkscape:export-xdpi="648"
+         inkscape:export-ydpi="648" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7107">
+      <circle
+         r="10"
+         cy="10.000005"
+         cx="9.9999781"
+         id="circle7109"
+         style="opacity:1;fill:#f44336;fill-opacity:1;stroke:none;stroke-width:0.05069799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/juergen/Schreibtisch/qqq.png"
+         inkscape:export-xdpi="648"
+         inkscape:export-ydpi="648" />
+    </clipPath>
+    <clipPath
+       id="clipPath8092"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         r="10"
+         cy="10.000005"
+         cx="9.9999781"
+         id="circle8094"
+         style="opacity:1;fill:#00bcd4;fill-opacity:1;stroke:none;stroke-width:0.05069799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/juergen/Schreibtisch/qqq.png"
+         inkscape:export-xdpi="648"
+         inkscape:export-ydpi="648" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5132">
+      <circle
+         r="10"
+         cy="10.000005"
+         cx="9.9999781"
+         id="circle5134"
+         style="opacity:1;fill:#009688;fill-opacity:1;stroke:none;stroke-width:0.05069799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/juergen/Schreibtisch/qqq.png"
+         inkscape:export-xdpi="648"
+         inkscape:export-ydpi="648" />
+    </clipPath>
+    <clipPath
+       id="clipPath6121"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         r="10"
+         cy="10.000005"
+         cx="9.9999781"
+         id="circle6123"
+         style="opacity:1;fill:#009688;fill-opacity:1;stroke:none;stroke-width:0.05069799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/juergen/Schreibtisch/qqq.png"
+         inkscape:export-xdpi="648"
+         inkscape:export-ydpi="648" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7125">
+      <circle
+         r="10"
+         cy="10.000005"
+         cx="9.9999781"
+         id="circle7127"
+         style="opacity:1;fill:#e91e63;fill-opacity:1;stroke:none;stroke-width:0.05069799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/juergen/Schreibtisch/qqq.png"
+         inkscape:export-xdpi="648"
+         inkscape:export-ydpi="648" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4785"
+       id="linearGradient4791"
+       x1="9.9285488"
+       y1="9.9996223"
+       x2="19.540064"
+       y2="19.532936"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Hintergrund"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1058.1428,-861.93365)">
+    <circle
+       inkscape:export-ydpi="648"
+       inkscape:export-xdpi="648"
+       inkscape:export-filename="/home/thomas/Programme/android/BlueIconsMinimal/app/src/main/res/drawable-xxhdpi/a203.png"
+       style="opacity:1;fill:#ffeb3b;fill-opacity:1;stroke:none;stroke-width:0.05069799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4136-8"
+       cx="-1048.1428"
+       cy="871.93365"
+       r="10" />
+    <path
+       style="opacity:0.2;fill:url(#linearGradient4791);fill-opacity:1;stroke:none;stroke-width:0.05069799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 14.490234 7.4511719 L 5.5722656 12.439453 C 9.3742748 16.241472 11.429595 18.313033 12.720703 19.619141 A 10 10 0 0 0 19.634766 12.634766 L 14.490234 7.4511719 z "
+       transform="translate(-1058.1428,861.93365)"
+       id="path4136" />
+    <rect
+       style="opacity:1;fill:#007d00;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:3.4000001;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21766"
+       width="0.56821078"
+       height="0.56821078"
+       x="-1048.4202"
+       y="876.42517"
+       ry="0.28410539" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Icon">
+    <ellipse
+       style="opacity:1;fill:#44ff44;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:3.4000001;stroke-dasharray:none;stroke-opacity:1"
+       id="path21791"
+       cx="10.062066"
+       cy="9.9773932"
+       rx="0.33934811"
+       ry="0.41037446" />
+    <rect
+       style="opacity:1;fill:#007d00;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:3.4000001;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21749"
+       width="5.2603827"
+       height="5.1566463"
+       x="11.689739"
+       y="16.037733"
+       ry="0.36014161"
+       transform="matrix(0.85545111,-0.51788358,0,1,0,0)" />
+    <path
+       d="m 3.9999777,4.0333382 12.0000003,0 0,11.9333328 -12.0000003,0 z"
+       id="path4"
+       inkscape:connector-curvature="0"
+       style="fill:none" />
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       id="path9754"
+       d="m 18.999978,19.033339 12,0 0,11.933333 -12,0 z" />
+    <rect
+       style="display:inline;opacity:1;fill:#00a200;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:3.4000001;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21749-2"
+       width="5.205946"
+       height="5.2677131"
+       x="6.3628216"
+       y="4.0554566"
+       ry="0.36789852"
+       transform="matrix(0.86439638,0.502811,0,1,0,0)" />
+    <rect
+       style="opacity:1;fill:#00b400;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:3.4000001;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21730"
+       width="5.3527069"
+       height="5.3527069"
+       x="10.765164"
+       y="-0.67442584"
+       ry="0.35054225"
+       transform="matrix(0.87415727,0.48564295,-0.87415727,0.48564295,0,0)" />
+  </g>
+</svg>
