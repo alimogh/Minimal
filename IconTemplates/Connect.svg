@@ -28,10 +28,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.4"
-     inkscape:cx="10.275093"
-     inkscape:cy="7.4739324"
+     inkscape:cx="0.72152157"
+     inkscape:cy="7.3846467"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -40,9 +40,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="744"
+     inkscape:window-height="700"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:snap-grids="false"
      inkscape:snap-to-guides="false">
@@ -236,7 +236,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -248,7 +248,7 @@
     <circle
        inkscape:export-ydpi="648"
        inkscape:export-xdpi="648"
-       inkscape:export-filename="/home/juergen/path4136.png"
+       inkscape:export-filename="/home/juergen/Schreibtisch/1.png"
        style="opacity:1;fill:#03a9f4;fill-opacity:1;stroke:none;stroke-width:0.05069799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4136"
        cx="-1048.1428"
