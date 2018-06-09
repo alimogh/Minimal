@@ -3,8 +3,8 @@
 <resources>
 
 	<!-- Material Dark colors -->
-    <color name="highlight_color_lxx_dark">#ff03A9F4</color>
-    <color name="gesture_trail_color_lxx_dark">#ff03A9F4</color>
-    <color name="gesture_trail_color_lxx_light">#ff03A9F4</color>
+    <color name="highlight_color_lxx_dark">#ffa1c729</color>
+    <color name="gesture_trail_color_lxx_dark">#ffa1c729</color>
+    <color name="gesture_trail_color_lxx_light">#ffa1c729</color>
 
 </resources>
