@@ -16,12 +16,6 @@ import android.support.v7.app.AlertDialog;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.github.javiersantos.piracychecker.PiracyChecker;
-import com.github.javiersantos.piracychecker.PiracyCheckerUtils;
-import com.github.javiersantos.piracychecker.enums.InstallerID;
-import com.github.javiersantos.piracychecker.enums.PiracyCheckerCallback;
-import com.github.javiersantos.piracychecker.enums.PiracyCheckerError;
-
 import java.io.File;
 import java.util.ArrayList;
 
@@ -42,38 +36,6 @@ import static de.baumann.minimal.ThemerConstants.THEME_READY_GOOGLE_APPS;
 public class SubstratumLauncher extends Activity {
 
     private static final String SUBSTRATUM_PACKAGE_NAME = "projekt.substratum";
-
-    private void startAntiPiracyCheck() {
-        if (PIRACY_CHECK && BASE_64_LICENSE_KEY.length() == 0)
-            Log.e("SubstratumAntiPiracyLog", PiracyCheckerUtils.getAPKSignature(this));
-
-        PiracyChecker piracyChecker = new PiracyChecker(this);
-        if (ENFORCE_GOOGLE_PLAY_INSTALL) piracyChecker.enableInstallerId(InstallerID.GOOGLE_PLAY);
-        if (ENFORCE_AMAZON_APP_STORE_INSTALL)
-            piracyChecker.enableInstallerId(InstallerID.AMAZON_APP_STORE);
-        piracyChecker.callback(new PiracyCheckerCallback() {
-            @Override
-            public void allow() {
-                beginSubstratumLaunch();
-            }
-
-            @Override
-            public void dontAllow(PiracyCheckerError error) {
-                String parse = String.format(getString(R.string.toast_unlicensed),
-                        getString(R.string.theme_name));
-                Toast.makeText(SubstratumLauncher.this, parse, Toast.LENGTH_SHORT).show();
-                finish();
-            }
-        });
-
-        if (BASE_64_LICENSE_KEY.length() > 0) {
-            piracyChecker.enableGooglePlayLicensing(BASE_64_LICENSE_KEY);
-        }
-        if (APK_SIGNATURE_PRODUCTION.length() > 0) {
-            piracyChecker.enableSigningCertificate(APK_SIGNATURE_PRODUCTION);
-        }
-        piracyChecker.start();
-    }
 
     private boolean isPackageInstalled(String package_name) {
         try {
@@ -183,11 +145,7 @@ public class SubstratumLauncher extends Activity {
     }
 
     private void launch() {
-        if (PIRACY_CHECK && !BuildConfig.DEBUG) {
-            startAntiPiracyCheck();
-        } else {
-            beginSubstratumLaunch();
-        }
+        beginSubstratumLaunch();
     }
 
     private void detectThemeReady() {

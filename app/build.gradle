@@ -1,30 +1,35 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 25
-    buildToolsVersion '26.0.2'
+    compileSdkVersion 27
+    buildToolsVersion '27.0.3'
 
     defaultConfig {
         applicationId "de.baumann.minimal"
-        minSdkVersion 23
-        targetSdkVersion 25
-        versionCode 23
-        versionName "3.4"
+        multiDexEnabled true
+        vectorDrawables.useSupportLibrary = true
+        minSdkVersion 26
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
     }
     buildTypes {
-        debug {
+        release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
-        release {
-            minifyEnabled true
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-        }
     }
+    lintOptions {
+        checkReleaseBuilds false
+        disable 'MissingTranslation'
+    }
+
+    return void
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.github.javiersantos:PiracyChecker:0.0.3'
-    compile project(':substrate')
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation project(':substrate')
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+    implementation 'com.android.support:design:27.1.1'
 }
