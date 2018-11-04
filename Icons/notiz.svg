@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="notiz.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    version="1.1"
    id="svg2"
    viewBox="0 0 20.625 20.625"
@@ -23,9 +23,9 @@
      inkscape:snap-to-guides="true"
      inkscape:snap-grids="true"
      inkscape:window-maximized="1"
-     inkscape:window-y="33"
+     inkscape:window-y="27"
      inkscape:window-x="0"
-     inkscape:window-height="699"
+     inkscape:window-height="704"
      inkscape:window-width="1366"
      inkscape:guide-bbox="true"
      showguides="false"
@@ -36,9 +36,9 @@
      showgrid="true"
      inkscape:current-layer="layer2"
      inkscape:document-units="px"
-     inkscape:cy="11.492718"
-     inkscape:cx="-8.9372531"
-     inkscape:zoom="11.2"
+     inkscape:cy="7.3197253"
+     inkscape:cx="12.075979"
+     inkscape:zoom="15.839192"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -354,6 +354,21 @@
          inkscape:export-ydpi="691.20001"
          ry="1.874999" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1072">
+      <rect
+         y="3.4083283"
+         x="-0.93747789"
+         height="18.75"
+         width="18.75"
+         id="rect1074"
+         style="fill:#9c27b0;fill-opacity:0.95685281;stroke:none;stroke-width:5.39975882;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/juergen/Desktop/ic_launcher.png"
+         inkscape:export-xdpi="691.20001"
+         inkscape:export-ydpi="691.20001"
+         ry="9.375" />
+    </clipPath>
   </defs>
   <metadata
      id="metadata7">
@@ -379,9 +394,9 @@
      inkscape:label="Icon"
      transform="translate(1.8749779,-2.4708283)">
     <rect
-       ry="1.874999"
-       inkscape:export-ydpi="691.20001"
-       inkscape:export-xdpi="691.20001"
+       ry="9.375"
+       inkscape:export-ydpi="940.79999"
+       inkscape:export-xdpi="940.79999"
        inkscape:export-filename="/home/juergen/Desktop/ic_launcher.png"
        style="fill:#9c27b0;fill-opacity:0.95685281;stroke:none;stroke-width:5.39975882;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect849"
@@ -409,7 +424,7 @@
     <g
        id="g1323"
        style="opacity:0.2"
-       clip-path="url(#clipPath1583)">
+       clip-path="url(#clipPath1072)">
       <path
          id="path923"
          style="stroke-width:0.9375;display:inline;fill:#212121"
@@ -1215,7 +1230,7 @@
        inkscape:connector-curvature="0"
        d="m 12.972699,10.201004 c 0.203097,-0.2030957 0.203097,-0.5415907 0,-0.7342727 l -1.21858,-1.218581 c -0.192682,-0.203096 -0.531177,-0.203096 -0.734274,0 l -0.9582,0.952993 1.952854,1.9528537 m -8.2644768,4.363977 v 1.952854 h 1.952854 L 11.462492,11.706004 9.5096392,9.7531503 Z"
        id="path6257"
-       style="display:inline;fill:#ffc107;stroke-width:0.9375"
+       style="display:inline;fill:#ffea00;stroke-width:0.9375"
        clip-path="url(#clipPath1591)" />
     <path
        style="display:inline;fill:#212121;stroke-width:0.9375"
@@ -1225,7 +1240,7 @@
        clip-path="url(#clipPath1587)" />
     <path
        clip-path="url(#clipPath1591)"
-       style="display:inline;fill:#ff6f00;stroke-width:0.9375"
+       style="display:inline;fill:#ff9100;stroke-width:0.9375"
        id="path1595"
        d="m 12.972699,10.201004 c 0.203097,-0.2030957 0.203097,-0.5415907 0,-0.7342727 l -1.21858,-1.218581 c -0.192682,-0.203096 -0.531177,-0.203096 -0.734274,0 l -0.9582,0.952993 1.952854,1.9528537"
        inkscape:connector-curvature="0"

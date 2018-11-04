@@ -10,35 +10,35 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="datei.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    version="1.1"
    id="svg2"
-   viewBox="0 0 20.625 20.625"
-   height="22"
-   width="22"
-   inkscape:export-filename="/home/juergen/Desktop/ic_launcher.png"
-   inkscape:export-xdpi="628.36365"
-   inkscape:export-ydpi="628.36365">
+   viewBox="0 0 28.125 28.125"
+   height="30"
+   width="30"
+   inkscape:export-filename="/home/juergen/Desktop/ic_foreground.png"
+   inkscape:export-xdpi="627.20001"
+   inkscape:export-ydpi="627.20001">
   <sodipodi:namedview
      inkscape:snap-to-guides="true"
      inkscape:snap-grids="true"
      inkscape:window-maximized="1"
-     inkscape:window-y="33"
+     inkscape:window-y="27"
      inkscape:window-x="0"
-     inkscape:window-height="699"
+     inkscape:window-height="704"
      inkscape:window-width="1366"
      inkscape:guide-bbox="true"
      showguides="false"
-     fit-margin-bottom="1"
-     fit-margin-right="1"
-     fit-margin-left="1"
-     fit-margin-top="1"
+     fit-margin-bottom="5"
+     fit-margin-right="5"
+     fit-margin-left="5"
+     fit-margin-top="5"
      showgrid="true"
      inkscape:current-layer="layer2"
      inkscape:document-units="px"
-     inkscape:cy="13.020132"
-     inkscape:cx="10.830853"
-     inkscape:zoom="15.839192"
+     inkscape:cy="23.860417"
+     inkscape:cx="15.581827"
+     inkscape:zoom="11.2"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -47,100 +47,100 @@
      id="base"
      units="px">
     <inkscape:grid
-       originy="18.750001"
-       originx="6.5625002"
+       originy="22.500001"
+       originx="10.3125"
        id="grid4138"
        type="xygrid" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide4140"
        orientation="0,1"
-       position="11.874978,21.095829" />
+       position="15.624978,24.845829" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide4142"
        orientation="0,1"
-       position="11.874978,5.0958282" />
+       position="15.624978,8.8458282" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide4144"
        orientation="1,0"
-       position="3.874978,13.095829" />
+       position="7.624978,16.845829" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide4146"
        orientation="0,20"
-       position="1.8749779,3.0958281" />
+       position="5.6249779,6.8458281" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide4148"
        orientation="-20,0"
-       position="21.874978,3.0958281" />
+       position="25.624978,6.8458281" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide4150"
        orientation="0,-20"
-       position="21.874978,23.095829" />
+       position="25.624978,26.845829" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide4152"
        orientation="20,0"
-       position="1.8749779,23.095829" />
+       position="5.6249779,26.845829" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide4154"
        orientation="1,0"
-       position="19.874978,13.095829" />
+       position="23.624978,16.845829" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide4156"
        orientation="-0.70710678,0.70710678"
-       position="11.874978,13.095829" />
+       position="15.624978,16.845829" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide4158"
        orientation="0.70710678,0.70710678"
-       position="11.874978,13.095829" />
+       position="15.624978,16.845829" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide4160"
        orientation="1,0"
-       position="5.8749781,13.095829" />
+       position="9.6249781,16.845829" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide4162"
        orientation="1,0"
-       position="17.874978,13.095829" />
+       position="21.624978,16.845829" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide4164"
        orientation="0,1"
-       position="11.874978,19.095829" />
+       position="15.624978,22.845829" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide4166"
        orientation="0,1"
-       position="11.874978,7.0958282" />
+       position="15.624978,10.845828" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide4168"
        orientation="0,1"
-       position="11.874978,18.095829" />
+       position="15.624978,21.845829" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide4170"
        orientation="0,1"
-       position="11.874978,8.0958282" />
+       position="15.624978,11.845828" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide4172"
        orientation="1,0"
-       position="6.8749781,13.095829" />
+       position="10.624978,16.845829" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide4174"
        orientation="1,0"
-       position="16.874978,13.095829" />
+       position="20.624978,16.845829" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -323,12 +323,12 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(1060.0177,-864.40447)"
+     transform="translate(1063.7677,-860.65447)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Hintergrund" />
   <g
-     transform="translate(1.8749779,-2.4708283)"
+     transform="translate(5.6249779,1.2791717)"
      inkscape:label="Icon"
      id="layer2"
      inkscape:groupmode="layer"
@@ -339,11 +339,11 @@
        height="18.75"
        width="18.75"
        id="rect849"
-       style="fill:#ffc107;fill-opacity:0.95685281;stroke:none;stroke-width:5.39975882;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#cddc39;fill-opacity:0.95685281;stroke:none;stroke-width:5.39975882;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="/home/juergen/Desktop/ic_launcher.png"
        inkscape:export-xdpi="691.20001"
        inkscape:export-ydpi="691.20001"
-       ry="1.874999" />
+       ry="0" />
     <path
        style="fill:none"
        inkscape:connector-curvature="0"
